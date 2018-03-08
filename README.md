@@ -14,6 +14,9 @@ Kalpit Pokra
 - ./graphics_asgn1
 
 
+### Otherwise you can also run game using qtCreator
+
+
 ### Controls
 
 - **Mousewheel** - Zoom
