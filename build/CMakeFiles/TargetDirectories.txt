@@ -1,3 +1,0 @@
-/home/kalpit/sem4/graphics/assignment/solution/ass1/20161134_Assignment1/build/CMakeFiles/edit_cache.dir
-/home/kalpit/sem4/graphics/assignment/solution/ass1/20161134_Assignment1/build/CMakeFiles/rebuild_cache.dir
-/home/kalpit/sem4/graphics/assignment/solution/ass1/20161134_Assignment1/build/CMakeFiles/graphics_asgn1.dir
