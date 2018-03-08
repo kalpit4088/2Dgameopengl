@@ -6,6 +6,14 @@ Pacman Killer 2D game in OpenGL 3. More details in the statement [PDF](Assign1.p
 Kalpit Pokra
 =======================
 
+### Run the game using terminal
+- cd "dir name"
+- mkdir build && cd build
+- cmake ..
+- make
+- ./graphics_asgn1
+
+
 ### Controls
 
 - **Mousewheel** - Zoom
