@@ -1,9 +1,9 @@
-Graphics Assignment 1
+Graphics opengl project
 =====================
 
 Pacman Killer 2D game in OpenGL 3. More details in the statement [PDF](Assign1.pdf).
 
-Kalpit Pokra - 20161134
+Kalpit Pokra
 =======================
 
 ### Controls
@@ -26,6 +26,3 @@ Kalpit Pokra - 20161134
 - If player ball collides with silver balls score will increase by 2 also that ball will disappear.
 - and if player ball collides with red balls score will increase by 1 also that ball will disappear.
 - If player ball collides with moving porcupinr score will decrease by 1, also porcupine will disappear for a while and player ball also repositions itself.
-
-
-
